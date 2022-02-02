@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import scipy.stats as stats
 import math
 
-Data = pd.read_csv("Full.csv", delimiter=";", encoding='latin-1')
+Data = pd.read_csv("Full.xlsx", delimiter=";", encoding='latin-1')
 
 Data[['Day','Month','Year']] = Data.Datum.str.split(".",expand=True,)
 
