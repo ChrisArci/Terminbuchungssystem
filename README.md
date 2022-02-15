@@ -1,7 +1,7 @@
 # Terminbuchungssystem
 Auswertung einer Terminbuchungssoftware eines Sportvereins
 
-Die zugrundeliegenden Daten dürfen auf Grund von Datenschutz nicht veröffentlicht werden. 
+Die zugrundeliegenden Daten dürfen auf Grund von Datenschutzbestimmungen nicht veröffentlicht werden. 
 Full.xlsx zeigt jedoch wie die Datan prinzipiell organisiert sind.
 
 Im Ordner "Plots" sind folgende Darstellungen enthalten:
